@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 
 ## Usage
-- Run the Final Cell to use the Recommender
+- Run the Final Function Cell to use the Recommender
 - Enter the movie title in the Text box
 ```ipynb
 Title: [Enter the movie]
